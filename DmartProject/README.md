@@ -78,7 +78,7 @@ The dataset includes:
 ---
 
 ## 🖼️ Dashboard Preview
-![DMart Dashboard Preview](images/dashboard.png)
+![DMart Dashboard Preview]([images/dashboard.png](https://github.com/02vandup11/Power-BI_Projects/blob/main/DmartProject/DmartDashboard.pdf))
 
 *(Replace `images/dashboard.png` with your actual image path in the repo.)*
 
@@ -109,5 +109,4 @@ This project is licensed under the MIT License — you can freely use and modify
 
 ## ✨ Author
 **Vandana Padhi**  
-📧 [Your Email]  
-💼 [LinkedIn Profile]
+
