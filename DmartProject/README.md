@@ -78,7 +78,7 @@ The dataset includes:
 ---
 
 ## 🖼️ Dashboard Preview
-![DMart Dashboard Preview]((https://github.com/02vandup11/Power-BI_Projects/blob/main/DmartProject/DmartDashboard.pdf))
+![Dashboard](https://github.com/02vandup11/Power-BI_Projects/blob/main/DmartProject/DmartDashboard.pdf) 
 
 ---
 
