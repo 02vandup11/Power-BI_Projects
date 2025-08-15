@@ -17,7 +17,7 @@ The goal of this project is to:
 ---
 
 ## 📂 Dataset
-**File:** `Dmart+Dataset_Tableau.csv`  
+**File:** [Dmart+Dataset_Tableau.csv](https://github.com/02vandup11/Power-BI_Projects/blob/main/DmartProject/Dmart%2BDataset_Tableau.csv)
 The dataset includes:
 - Order details (date, value, discount, shipping mode, payment type)
 - Customer demographics (age, gender, location)
@@ -78,9 +78,7 @@ The dataset includes:
 ---
 
 ## 🖼️ Dashboard Preview
-![DMart Dashboard Preview]([images/dashboard.png](https://github.com/02vandup11/Power-BI_Projects/blob/main/DmartProject/DmartDashboard.pdf))
-
-*(Replace `images/dashboard.png` with your actual image path in the repo.)*
+![DMart Dashboard Preview]((https://github.com/02vandup11/Power-BI_Projects/blob/main/DmartProject/DmartDashboard.pdf))
 
 ---
 
