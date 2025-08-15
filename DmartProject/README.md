@@ -1,10 +1,10 @@
 # 📊 DMart Sales & Customer Insights Dashboard
 
----
+
 
 ## 🖼️ Dmart Dashboard 
 <img width="940" height="615" alt="image" src="https://github.com/user-attachments/assets/22f13108-2f0e-4fce-80ed-bc2d30fe1290" />
-
+---
 ## 📝 Project Overview
 This project analyzes DMart's sales performance, customer demographics, product trends, operational efficiency, and payment preferences using **Power BI**.  
 The interactive dashboard answers key business questions, helping stakeholders make data-driven decisions quickly.
