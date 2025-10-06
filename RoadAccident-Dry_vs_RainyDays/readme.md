@@ -11,7 +11,8 @@ This project uses **interactive dashboards**, a **relational data model**, and *
 ## 🧩 Data Model (ER Diagram)
 The data model integrates multiple related tables to ensure accurate and flexible analysis.
 
-![ER Diagram](Erdiagram.png)
+<img width="1087" height="687" alt="Erdiagram" src="https://github.com/user-attachments/assets/d9fac5bd-c6d7-470d-a667-50195a42e988" />
+
 
 ### **Tables Overview**
 - **Accidents** – Central fact table containing details such as accident date, time, severity, vehicles, victims, and weather references.  
@@ -25,14 +26,16 @@ The data model integrates multiple related tables to ensure accurate and flexibl
 ## 📊 Dashboard Structure
 
 ### 🏠 **Home Page: Comparison Overview**
-![Home Page](home.png)
+<img width="1412" height="785" alt="home" src="https://github.com/user-attachments/assets/86dd0ae3-6201-4b42-bb6e-5ea301295f2c" />
+
 - Acts as a navigation page with buttons for **Rainy Days** and **Dry Days** dashboards.  
 - Background visual highlights the contrast between both conditions.
 
 ---
 
 ### 🌧️ **Road Accident Analysis – Rainy Days**
-![Rainy Dashboard](rainy.png)
+<img width="1325" height="787" alt="rainy" src="https://github.com/user-attachments/assets/b35b5d05-cede-4604-b320-5ae316b7bfda" />
+
 **Key Insights:**
 - **Total Accidents:** 1K  
 - **Fatal Accidents:** 222  
@@ -52,7 +55,8 @@ The data model integrates multiple related tables to ensure accurate and flexibl
 ---
 
 ### ☀️ **Road Accident Analysis – Dry Days**
-![Dry Dashboard](dry.png)
+<img width="1328" height="789" alt="dry" src="https://github.com/user-attachments/assets/5cbe70a9-e603-448c-a9dd-ca9b83c63ce0" />
+
 **Key Insights:**
 - **Total Accidents:** 522  
 - **Fatal Accidents:** 175  
@@ -118,10 +122,8 @@ It can be used by **transport authorities, police departments, and policy analys
 
 ## 👩‍💻 Created By
 **Vandana Padhi**  
-_B.Sc. IT | Data Analyst | Power BI Developer | Cloud & AI Enthusiast_
 
 ---
 
-## 📸 Dashboard Previews
-### Background Image
-![Dashboard Background](background_img.jpg)
+
+
