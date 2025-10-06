@@ -109,6 +109,6 @@ It enables stakeholders to:
 ---
 
 ## 📌 Author
-**Developed by:** Vandana Padhi
+**Developed by:** Vandana Padhi  
 **Tool:** Microsoft Power BI  
 **Category:** Data Analytics | Business Intelligence | Visualization  
