@@ -6,6 +6,11 @@ It provides a clear, interactive summary for tracking business growth and identi
 
 ---
 
+## 📷 Dashboard Preview
+<img width="830" height="794" alt="image" src="https://github.com/user-attachments/assets/b96a80bb-0159-4cb3-be75-c108d643678b" />
+
+---
+
 ## 🎯 Key Metrics Displayed
 
 | Metric | Value |
@@ -113,13 +118,9 @@ This Power BI dashboard provides a **comprehensive and interactive overview of p
 - Understand sales patterns over time,
 - Analyze profit distribution across global regions.
 
----
-
-## 📷 Dashboard Preview
-![Product and Sales Analysis Dashboard](3aaa6558-5000-4ce8-9116-976b52867732.png)
 
 ---
 
 ## 👩‍💻 Created By
 **Vandana Padhi**  
-_B.Sc. IT | Data Analytics | Power BI Developer | Cloud Computing Enthusiast_  
+
