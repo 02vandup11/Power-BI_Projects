@@ -52,14 +52,6 @@ It allows users to filter data by **Country**, **Year**, **Month**, and **Quarte
 - **Data Cleaning & Transformation:** Power Query Editor
 - **DAX (Data Analysis Expressions)** for calculated metrics
 
----
-
-## 📂 Repository Contents
-| File Name | Description |
-|------------|-------------|
-| `[Sales_Report.pbix](https://github.com/02vandup11/Power-BI_Projects/blob/main/SalesReport_Project/Sales_Report.pbix)` | Power BI Dashboard file |
-| `[7248252f-0a5b-44ef-85b7-d47e9f3c7c3a.png](https://github.com/02vandup11/Power-BI_Projects/blob/main/SalesReport_Project/Sales_Report_Dashboard.pdf)` | Dashboard |
-| `[README.md](https://github.com/02vandup11/Power-BI_Projects/blob/main/SalesReport_Project/README.md)` | Project documentation |
 
 ---
 
