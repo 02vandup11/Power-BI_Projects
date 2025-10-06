@@ -5,6 +5,11 @@ The **E-commerce Dashboard** is an interactive Power BI report that provides det
 It visualizes data across multiple business dimensions such as **profit, orders, customers, product categories, sub-categories, and regional performance**, helping stakeholders make data-driven decisions.
 
 ---
+## 🖼️ Dashboard Preview
+<img width="1296" height="741" alt="image" src="https://github.com/user-attachments/assets/0c6226c7-192b-4234-9f81-663a1307a445" />
+
+
+---
 
 ## 🎯 Objectives
 - Analyze **monthly and quarterly profits**.
@@ -12,21 +17,6 @@ It visualizes data across multiple business dimensions such as **profit, orders,
 - Evaluate **customer engagement** and **sales distribution**.
 - Enable management to make informed **marketing and inventory decisions**.
 
----
-
-## 🧩 Data Source
-The data was imported from an **Excel dataset** containing transaction details.
-
-| Field Name | Description |
-|-------------|-------------|
-| `Order ID` | Unique identifier for each order |
-| `Customer ID / Name` | Customer reference |
-| `State` | Geographic region of customer |
-| `Category` | Main product classification (e.g., Clothing, Electronics, Furniture) |
-| `Sub-Category` | Detailed product type (e.g., Phones, Printers, Chairs) |
-| `Profit` | Net profit from each sale |
-| `Amount` | Total sale amount |
-| `Month` | Month of transaction |
 
 ---
 
@@ -106,14 +96,6 @@ The data was imported from an **Excel dataset** containing transaction details.
 6. **Add Filters / Slicers** for `Month` and `State`.  
 7. **Apply Theme** — Dark brown background with orange highlights for contrast and clarity.  
 
----
-
-## 📦 Deliverables
-| File | Description |
-|------|--------------|
-| `Ecommerce_Project.pbix` | Power BI project file |
-| `Ecommerce_Project_Dashboard.pdf` | Exported dashboard report |
-| `Dashboard_Preview.png` | Snapshot of the live dashboard |
 
 ---
 
@@ -127,6 +109,6 @@ It enables stakeholders to:
 ---
 
 ## 📌 Author
-**Developed by:** [Your Name]  
+**Developed by:** Vandana Padhi
 **Tool:** Microsoft Power BI  
 **Category:** Data Analytics | Business Intelligence | Visualization  
