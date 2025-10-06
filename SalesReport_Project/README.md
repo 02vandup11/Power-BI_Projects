@@ -5,7 +5,10 @@ This Power BI project presents an **interactive Sales Report Dashboard** that pr
 It allows users to filter data by **Country**, **Year**, **Month**, and **Quarter**, helping to make informed business decisions through visually rich analytics.
 
 ---
+## 🖼️ Dashboard Preview
+<img width="813" height="731" alt="image" src="https://github.com/user-attachments/assets/ff1c8ad1-4da6-41e3-93bf-52630295c31a" />
 
+---
 ## 🎯 Objectives
 - To analyze total **Revenue**, **Profit**, and **Units Sold**.
 - To identify top-performing **Products** and **Sub-Categories**.
@@ -37,8 +40,8 @@ It allows users to filter data by **Country**, **Year**, **Month**, and **Quarte
 
 ---
 
-## 🖼️ Dashboard Preview
-<img width="940" height="869" alt="image" src="https://github.com/user-attachments/assets/8acc1787-19db-4a56-8ae0-92fc08715bbd" />
+
+
 
 
 ---
